@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epigenomics | BlogPost</title>
+    <link>https://academic-demo.netlify.app/tag/epigenomics/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/epigenomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Epigenomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Gali Bai</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua232318cc577903dab5ff3592182ae44_27184_512x512_fill_lanczos_center_3.png</url>
+      <title>Epigenomics</title>
+      <link>https://academic-demo.netlify.app/tag/epigenomics/</link>
+    </image>
+    
+    <item>
+      <title>CHIPS A Snakemake pipeline for quality control and reproducible processing of chromatin profiling data</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHIPS</title>
+      <link>https://academic-demo.netlify.app/project/chips/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/chips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
